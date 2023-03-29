@@ -18,3 +18,4 @@ const Zakaria = {
 };
 
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em> Thanks for visiting :heart: </em>
