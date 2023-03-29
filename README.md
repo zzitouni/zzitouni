@@ -16,6 +16,5 @@ const Zakaria = {
   tools: ["Git", "Github", "VSCode", "Android Studio" , "Figma"],
   languages: ["English", "Arabic", "French"],
 };
-
-
+```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em> Thanks for visiting :heart: </em>
