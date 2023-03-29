@@ -11,7 +11,7 @@ const Zakaria = {
     city: "Nouaceur",
     country: "Morocco",
   },
-  code: ["C", "PHP", "HTML", "CSS","Python"],
+  code: ["C","Java", "PHP", "HTML", "CSS","Python"],
   frameworks: ["Bootstrap", "Django"], 
   tools: ["Git", "Github", "VSCode", "Android Studio" , "Figma"],
   languages: ["English", "Arabic", "French"],
